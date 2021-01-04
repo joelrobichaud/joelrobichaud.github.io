@@ -5,7 +5,7 @@ module.exports = {
       name: `Joel Robichaud`,
       summary: ``,
     },
-    description: `A blog somewhere at the intersection of engineering and creativity.`,
+    description: `A blog somewhere at the intersection of engineering and art.`,
     siteUrl: `https://joelrobichaud.github.io/`,
   },
   plugins: [
